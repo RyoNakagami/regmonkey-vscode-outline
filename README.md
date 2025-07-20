@@ -23,8 +23,13 @@
 この拡張機能は以下の設定を提供します：
 
 * `RegmonkeyOutline.availableLanguages`: アウトラインを有効にする言語IDをカンマ区切りで指定
-  - デフォルト: `python, R`
+  - デフォルト: `python`
   - 例: 追加の言語を有効にするには、カンマ区切りリストに追加: `python, R, javascript, typescript`
+
+```json
+"RegmonkeyOutline.availableLanguages": "quarto, python, R",
+```
+
 
 ## 使用方法
 

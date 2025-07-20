@@ -2,8 +2,8 @@
   "name": "regmonkey-outline",
   "displayName": "regmonkey-outline",
   "publisher": "RyoNak",
-  "description": "Visualize the structure of your active Markdown file in a collapsible outline tree.",
-  "version": "0.0.1",
+  "description": "Visualize the markdown-flavored structure of your active file in a collapsible outline tree.",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/RyoNakagami/regmonkey-vscode-outline.git"
